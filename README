@@ -1,0 +1,13 @@
+Para ver variables de entorno
+
+- node --env-file .env dist/index.js
+
+Para ejecutar comandos personalizados del package.json
+
+- npm run env
+
+Para ejecutar nodeJS con --watch
+
+- node --watch ./dist/index.js
+
+Para tr
