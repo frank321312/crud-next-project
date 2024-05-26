@@ -10,4 +10,6 @@ Para ejecutar nodeJS con --watch
 
 - node --watch ./dist/index.js
 
-Para tr
+Para ejecutar typescript
+
+- npx tsc -w
